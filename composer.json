@@ -1,0 +1,17 @@
+{
+    "name": "marssoft/marssoft",
+    "description": "Namespace",
+    "homepage": "https://github.com/marshung24/marssoft",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mars Hung",
+            "email": "tfaredxj@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "marssoft\\marssoft\\": "src" }
+    },
+    "minimum-stability": "stable"
+}
